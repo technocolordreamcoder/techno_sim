@@ -1,0 +1,83 @@
+- name: San Francisco International Airport
+  location:
+    latitude: 37.6213
+    longitude: -122.3790
+    elevation: 4.6
+
+- name: Oakland International Airport
+  location:
+    latitude: 37.7126
+    longitude: -122.2137
+    elevation: 3.4
+
+- name: San Jose International Airport
+  location:
+    latitude: 37.3620
+    longitude: -121.9290
+    elevation: 15.3
+
+- name: Marina Municipal Airport
+  location:
+    latitude: 36.6818
+    longitude: -121.7624
+    elevation: 39.6
+
+- name: Watsonville Municipal Airport
+  location:
+    latitude: 36.9392
+    longitude: -121.7903
+    elevation: 67.1
+
+- name: Reid-Hillview Airport
+  location:
+    latitude: 37.3351
+    longitude: -121.8193
+    elevation: 131.9
+
+- name: Palo Alto Airport
+  location:
+    latitude: 37.4687
+    longitude: -122.1145
+    elevation: 2.1
+
+- name: Salinas Municipal Airport
+  location:
+    latitude: 36.6625
+    longitude: -121.6067
+    elevation: 65.8
+
+- name: San Francisco Ferry Building
+  location:
+    latitude: 37.7954
+    longitude: -122.3930
+    elevation: 0
+
+- name: Oakland Jack London Square
+  location:
+    latitude: 37.7953
+    longitude: -122.2798
+    elevation: 0
+
+- name: San Jose Diridon Station
+  location:
+    latitude: 37.3295
+    longitude: -121.9020
+    elevation: 62
+
+- name: Santa Cruz Beach Boardwalk
+  location:
+    latitude: 36.9640
+    longitude: -122.0179
+    elevation: 0
+
+- name: Palo Alto Transit Center
+  location:
+    latitude: 37.4436
+    longitude: -122.1624
+    elevation: 30
+
+- name: San Carlos Airport
+  location:
+    latitude: 37.5118
+    longitude: -122.2482
+    elevation: 5.5
