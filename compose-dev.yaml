@@ -6,7 +6,7 @@ services:
     image: techno-sim-dev:latest
     build:
       context: dev_env
-      target: techno-dev
+      target: techno_build
     init: true
     volumes:
     - type: bind
