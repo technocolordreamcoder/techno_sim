@@ -1,0 +1,85 @@
+- timestamp: 0
+  orders:
+  - origin: san_francisco_international_airport
+    destination: marina_municipal_airport
+    passengers: 1
+  - origin: oakland_international_airport
+    destination: san_jose_international_airport
+    passengers: 2
+  - origin: marina_municipal_airport
+    destination: reid-hillview_airport
+    passengers: 1
+  - origin: palo_alto_airport
+    destination: san_francisco_ferry_building
+    passengers: 1
+  - origin: san_francisco_international_airport
+    destination: palo_alto_transit_center
+    passengers: 3
+
+- timestamp: 1
+  orders:
+  - origin: san_francisco_international_airport
+    destination: marina_municipal_airport
+    passengers: 2
+  - origin: oakland_international_airport
+    destination: san_jose_international_airport
+    passengers: 1
+  - origin: watsonville_municipal_airport
+    destination: salinas_municipal_airport
+    passengers: 1
+  - origin: san_francisco_ferry_building
+    destination: palo_alto_airport
+    passengers: 2
+
+- timestamp: 2
+  orders:
+  - origin: san_francisco_international_airport
+    destination: oakland_jack_london_square
+    passengers: 1
+  - origin: san_jose_diridon_station
+    destination: santa_cruz_beach_boardwalk
+    passengers: 2
+  - origin: reid-hillview_airport
+    destination: san_francisco_international_airport
+    passengers: 1
+  - origin: palo_alto_transit_center
+    destination: san_francisco_ferry_building
+    passengers: 2
+
+- timestamp: 3
+  orders:
+  - origin: san_francisco_international_airport
+    destination: san_jose_international_airport
+    passengers: 3
+  - origin: san_francisco_ferry_building
+    destination: palo_alto_transit_center
+    passengers: 1
+  - origin: san_carlos_airport
+    destination: watsonville_municipal_airport
+    passengers: 1
+
+- timestamp: 4
+  orders:
+  - origin: san_francisco_international_airport
+    destination: oakland_international_airport
+    passengers: 1
+  - origin: san_jose_international_airport
+    destination: reid-hillview_airport
+    passengers: 1
+  - origin: marina_municipal_airport
+    destination: salinas_municipal_airport
+    passengers: 2
+  - origin: san_francisco_ferry_building
+    destination: palo_alto_airport
+    passengers: 1
+
+- timestamp: 5
+  orders:
+  - origin: san_francisco_international_airport
+    destination: san_jose_international_airport
+    passengers: 2
+  - origin: oakland_jack_london_square
+    destination: san_francisco_ferry_building
+    passengers: 1
+  - origin: watsonville_municipal_airport
+    destination: san_carlos_airport

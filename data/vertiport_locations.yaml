@@ -1,0 +1,83 @@
+- name: san_francisco_international_airport
+  location:
+    latitude: 37.6213
+    longitude: -122.3790
+    elevation: 4.6
+
+- name: oakland_international_airport
+  location:
+    latitude: 37.7126
+    longitude: -122.2137
+    elevation: 3.4
+
+- name: san_jose_international_airport
+  location:
+    latitude: 37.3620
+    longitude: -121.9290
+    elevation: 15.3
+
+- name: marina_municipal_airport
+  location:
+    latitude: 36.6818
+    longitude: -121.7624
+    elevation: 39.6
+
+- name: watsonville_municipal_airport
+  location:
+    latitude: 36.9392
+    longitude: -121.7903
+    elevation: 67.1
+
+- name: reid-hillview_airport
+  location:
+    latitude: 37.3351
+    longitude: -121.8193
+    elevation: 131.9
+
+- name: palo_alto_airport
+  location:
+    latitude: 37.4687
+    longitude: -122.1145
+    elevation: 2.1
+
+- name: salinas_municipal_airport
+  location:
+    latitude: 36.6625
+    longitude: -121.6067
+    elevation: 65.8
+
+- name: san_francisco_ferry_building
+  location:
+    latitude: 37.7954
+    longitude: -122.3930
+    elevation: 0
+
+- name: oakland_jack_london_square
+  location:
+    latitude: 37.7953
+    longitude: -122.2798
+    elevation: 0
+
+- name: san_jose_diridon_station
+  location:
+    latitude: 37.3295
+    longitude: -121.9020
+    elevation: 62
+
+- name: santa_cruz_beach_boardwalk
+  location:
+    latitude: 36.9640
+    longitude: -122.0179
+    elevation: 0
+
+- name: palo_alto_transit_center
+  location:
+    latitude: 37.4436
+    longitude: -122.1624
+    elevation: 30
+
+- name: san_carlos_airport
+  location:
+    latitude: 37.5118
+    longitude: -122.2482
+    elevation: 5.5
