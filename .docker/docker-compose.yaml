@@ -6,7 +6,7 @@ services:
     image: techno-sim-dev:latest
     build:
       context: .
-      dockerfile: ./Dockerfile
+      dockerfile: ./.docker/Dockerfile
     init: true
     volumes:
     - type: bind
