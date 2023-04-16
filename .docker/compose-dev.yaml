@@ -1,5 +1,5 @@
 services:
-  app:
+  dev_en:
     entrypoint:
     - sleep
     - infinity
@@ -12,4 +12,3 @@ services:
     - type: bind
       source: /var/run/docker.sock
       target: /var/run/docker.sock
-
