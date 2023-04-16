@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "vertiport-orders"
+version = "0.1.0"
+description = "Generate customer orders of eVTOL flights between vertiports"
+authors = ["techno coder <j_grant5@u.pacific.edu>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pyyaml = "^5.4.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^6.2.4"
+
+[build-system]
+requires = ["poetry>=1.1.6", "setuptools>=58.0.4"]
+build-backend = "poetry.masonry.api"
