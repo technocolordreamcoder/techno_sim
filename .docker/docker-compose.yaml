@@ -5,8 +5,8 @@ services:
     - infinity
     image: techno-sim-dev:latest
     build:
-      context: .
-      dockerfile: ./.docker/Dockerfile
+      context: dev_env
+      target: techno-dev
     init: true
     volumes:
     - type: bind
