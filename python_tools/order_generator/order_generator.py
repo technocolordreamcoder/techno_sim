@@ -1,12 +1,19 @@
 import random
 import yaml
+import os
 
-# Load vertiport data from YAML file
-with open('../../data/vertiport_locations.yaml', 'r') as f:
-    vertiports = yaml.safe_load(f)
+REPO_ROOT = os.environ['PWD']
 
-# Function to generate random orders
-def generate_orders(num_orders):
+def read_locations() -> dict:
+    """Read locations of avilable vertiports from YAML file"""
+    yml_locations = os.path.join(REPO_ROOT, 'data/vertiport_locations.yaml')
+
+    with open(yml_locations, 'r') as f:
+        return yaml.safe_load(f)
+
+def generate_orders(num_orders) -> dict:
+    """Function to generate random orders"""
+    vertiports = read_locations()
     orders = []
     for i in range(num_orders):
         # Randomly choose start and end vertiports
